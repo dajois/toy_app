@@ -1,5 +1,5 @@
 current directory: /Users/dajo/rbwork/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/ffi-1.11.1/ext/ffi_c
-/Users/dajo/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190713-87105-1vin3mf.rb extconf.rb
+/Users/dajo/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190713-3241-1lxt5x3.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
@@ -125,4 +125,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190713-87105-1nrh8e8
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190713-3241-1hu7q0p

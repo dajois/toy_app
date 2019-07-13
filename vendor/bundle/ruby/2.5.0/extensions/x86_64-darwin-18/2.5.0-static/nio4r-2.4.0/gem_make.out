@@ -1,5 +1,5 @@
 current directory: /Users/dajo/rbwork/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/nio4r-2.4.0/ext/nio4r
-/Users/dajo/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190713-87105-13hgxq5.rb extconf.rb
+/Users/dajo/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190713-3241-cfj4k0.rb extconf.rb
 checking for unistd.h... yes
 checking for sys/select.h... yes
 checking for port_event_t in poll.h... no
@@ -247,4 +247,4 @@ linking shared-object nio4r_ext.bundle
 
 current directory: /Users/dajo/rbwork/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/nio4r-2.4.0/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20190713-87105-54qr1r
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20190713-3241-z0mw4k

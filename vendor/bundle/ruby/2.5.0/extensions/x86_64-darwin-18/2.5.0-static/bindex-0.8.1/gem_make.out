@@ -1,5 +1,5 @@
 current directory: /Users/dajo/rbwork/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
-/Users/dajo/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190713-87105-e9twyy.rb extconf.rb
+/Users/dajo/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190713-3241-4h0zit.rb extconf.rb
 creating Makefile
 
 current directory: /Users/dajo/rbwork/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
@@ -12,4 +12,4 @@ linking shared-object skiptrace/internal/cruby.bundle
 
 current directory: /Users/dajo/rbwork/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190713-87105-1b4ubaf/skiptrace/internal
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190713-3241-de418i/skiptrace/internal
